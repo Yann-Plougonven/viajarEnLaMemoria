@@ -1,0 +1,33 @@
+body
+{
+    font-family: Arial;
+	background-image: url(back.jpg);
+	color: black;
+	line-height: 150%
+}
+
+h2
+{
+	color: red;
+}
+
+h1
+{
+	font-size: 50px;
+}
+
+h2
+{
+	font-size: 35px;
+}
+
+h4
+{
+	font-size: 25px
+}
+
+footer
+{
+	position:absolute;
+	bottom:0;
+}
